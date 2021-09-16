@@ -1,5 +1,6 @@
 # SAMPL1
 Repository for historical data from SAMPL1
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5508278.svg)](https://doi.org/10.5281/zenodo.5508278)
 
 ## Challenge overview
 SAMPL1 was organized by OpenEye and continued to focus on predicting solvation free energies of drug-like small molecules.
